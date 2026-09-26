@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.p {
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+    background-color: hsl(360, 100%, 85%);
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.tw {
+    font-size: 24px;
+}
+
+#gr {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
